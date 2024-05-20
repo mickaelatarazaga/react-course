@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@s-ui/mono": "^2.45.0"
+    "@s-ui/mono": "2.45.0"
   },
   "name": "react-course",
   "description": "",
@@ -10,7 +10,8 @@
     "projects/*"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "co": "sui-mono commit"
   },
   "author": "Micka Tarazaga",
   "license": "ISC"
